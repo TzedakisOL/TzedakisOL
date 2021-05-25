@@ -1,8 +1,6 @@
 -👋🏻 Hi, I’m @TzedakisOL
 - 👀 I’m interested in everything about programming!
 - 🌱 I’m currently learning how to code in Java!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 TzedakisOL/TzedakisOL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
