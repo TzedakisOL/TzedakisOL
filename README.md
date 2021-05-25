@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TzedakisOL
+-👋🏻 Hi, I’m @TzedakisOL
 - 👀 I’m interested in everything about programming!
 - 🌱 I’m currently learning how to code in Java!
 - 💞️ I’m looking to collaborate on ...
